@@ -16,7 +16,9 @@ Gemini Pro Vision is an advanced large image model that we have pre-trained to r
 4. **File Functions:**
 
 a. .env: Contains environment-specific variables, crucial for maintaining security and functionality.
+
 b. .gitignore: Lists files and directories to be ignored by Git, safeguarding sensitive data from public exposure.
+
 c. app.py: The main Python file where the application's logic and features are implemented.
 
 5. **Explaining app.py Code:** The app.py file encapsulates the logic for the calorie counting feature, integrating various libraries and methodologies.
